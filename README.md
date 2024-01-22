@@ -62,7 +62,7 @@ composer install
 
 ## Configuration
 
-make a `.env` file with the necessary variables
+make a `.env` file in the database folder with the necessary variables
 
 ```
 DB_HOST = "localhost"
