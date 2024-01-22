@@ -8,8 +8,6 @@ A simple todo list application with a ReactJS frontend, Express backend, MySQL d
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -21,8 +19,9 @@ A simple todo list application with a ReactJS frontend, Express backend, MySQL d
 Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
-- [MySQL](https://www.mysql.com/)
+- [MySQL database]
 - [PHP](https://www.php.net/)
+- [Composer](https://getcomposer.org/)
 
 ## Installation
 
@@ -56,4 +55,17 @@ cd database
 composer install
 ```
 
-3. Start the everything with `npm run dev`
+## Configuration
+
+make a `.env` file with the necessary variables
+
+```
+DB_HOST = "localhost"
+DB_USERNAME = "username_for_database"
+DB_PASSWORD = "password_for_database"
+DB_DATABASE = "database_name"
+```
+
+## Usage
+
+Start the everything with `npm run dev`

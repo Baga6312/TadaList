@@ -37,6 +37,4 @@ const deleteToDo = (_id , setTodo) => {
     .catch((err)=> console.log(err))
 }
 
-
-
 export {getAllToDo ,addToDo , updateToDo, deleteToDo }

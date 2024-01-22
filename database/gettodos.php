@@ -8,7 +8,7 @@ $sql = "SELECT * FROM todo";
 $result = $conn->query($sql);
 
 if (!$result) {
-    http_response_code(500);  // Set error status code
+    http_response_code(500);  
     die("Error: " . $conn->error);
 }
 
