@@ -34,11 +34,6 @@ cd todo-list
 
 2. Install dependecies
 
-<4>Install dependecies for / </4>
-``` 
-npm i
-```
-
 <h4>Install frontend dependencies</h4>
 
 ```
