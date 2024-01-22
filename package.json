@@ -1,0 +1,17 @@
+{
+  "name": "todolist-react-app",
+  "version": "1.0.0",
+  "description": "A simple todo list application with a ReactJS frontend, Express backend, MySQL database, and PHP for interaction.",
+  "main": "index.js",
+  
+  "scripts": {
+    "dev": "npm run start:react && npm run start:express && npm run start:php",
+    "start:react": "cd frontend && npm run dev",
+    "start:express": "cd backend && nodemon --inspect server.js",
+    "start:php": "cd database && php -S localhost:8000"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

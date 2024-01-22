@@ -1,0 +1,11 @@
+{
+    "name": "dt/database",
+    "autoload": {
+        "psr-4": {
+            "Dt\\Database\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
