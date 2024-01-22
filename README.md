@@ -35,20 +35,23 @@ cd todo-list
 
 2. Install dependecies
 
-```
 # Install frontend dependencies
+
+```
 cd frontend
 npm install
 ```
 
-```
 # Install backend dependencies
+
+```
 cd backend
 npm install
 ```
 
-```
 # Install backend dependencies
+
+```
 cd database
 composer install
 ```
