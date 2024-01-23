@@ -1,4 +1,4 @@
-# Todo List App
+# TadaList App
 
 A simple todo list application with a ReactJS frontend, Express backend, MySQL database, and PHP for database interaction.
 
