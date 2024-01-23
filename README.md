@@ -1,6 +1,6 @@
 # Todo List App
 
-A simple todo list application with a ReactJS frontend, Express backend, MySQL database, and PHP for interaction.
+A simple todo list application with a ReactJS frontend, Express backend, MySQL database, and PHP for database interaction.
 
 ## Table of Contents
 
