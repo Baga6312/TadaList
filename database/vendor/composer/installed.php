@@ -3,7 +3,7 @@
         'name' => 'dt/database',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'ee734554a076602d2e5817ea6e0aea9119c82409',
+        'reference' => '93b5cc8c58fc2505d5c58cda3435489c2af73b68',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'dt/database' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'ee734554a076602d2e5817ea6e0aea9119c82409',
+            'reference' => '93b5cc8c58fc2505d5c58cda3435489c2af73b68',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

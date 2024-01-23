@@ -34,31 +34,16 @@ cd todo-list
 
 2. Install dependecies
 
-<h4>Install dependencies for root </h4>
+<h4>Install dependencies for root first </h4>
 
 ```
-npm i
+npm install
 ```
 
-<h4>Install frontend dependencies</h4>
+<h4>Install everything with </h4>
 
 ```
-cd frontend
-npm i
-```
-
-<h4>Install backend dependencies</h4>
-
-```
-cd backend
-npm i
-```
-
-<h4>Install backend dependencies</h4>
-
-```
-cd database
-composer install
+npm run set
 ```
 
 ## Configuration
@@ -74,4 +59,8 @@ DB_DATABASE = "database_name"
 
 ## Usage
 
-Start the everything with `npm run dev`
+Start the everything with
+
+```
+npm run dev
+```
