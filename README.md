@@ -40,7 +40,7 @@ cd todo-list
 npm install
 ```
 
-<h4>Install everything with </h4>
+<h4>Install dependecies for every folders with </h4>
 
 ```
 npm run set
