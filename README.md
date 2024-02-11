@@ -19,7 +19,7 @@ A simple todo list application with a ReactJS , ExpressJS , MySQL, and PHP for d
 Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
-- [MySQL database]
+- Any MySQL database
 - [PHP](https://www.php.net/)
 - [Composer](https://getcomposer.org/)
 
