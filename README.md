@@ -8,7 +8,7 @@ A simple todo list application with a ReactJS , ExpressJS , MySQL, and PHP for d
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-
+- [Troubleshooting](#troubleshooting)  
 ## Features
 
 - Add, edit, and delete tasks
@@ -64,3 +64,7 @@ Start the everything with
 ```
 npm run dev
 ```
+
+## Troubleshooting 
+
+If you are encounting the `mysqli function not found` error try to uncomment the function on the `/php/php.ini` on the php files directory  
